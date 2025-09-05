@@ -1,0 +1,16 @@
+.recipeDiv{
+    width: 300px;
+    border: 1px solid black;
+}
+
+.recipeName{
+    font-weight: bold;
+    width: 300px;
+    border: 1px solid black;
+    margin: none;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}

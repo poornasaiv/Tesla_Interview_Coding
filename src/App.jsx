@@ -8,11 +8,12 @@ import ContextDemo from './UsingContext/ContextDemo'
 import CountProvider from './ContextAPI/CountContext'
 import ReducerDemo from './Reducer/ReducerDemo'
 import Game from './Games/Game.jsx'
+import Home from './accordian_exercise/Home.jsx'
 
 function App() {
 
   return (
-    <Game />
+    <Home />
   )
       
 }
